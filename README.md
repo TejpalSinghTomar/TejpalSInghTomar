@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Html,Css,Js,RectJs,NextJs** 
 
-- 📫 How to reach me **monudhaka829@gmail.com**
+- 📫 How to reach me **sumitkhan.dhana@gmail.com**
 
 - ⚡ Fun fact **I am not Funny**
 
