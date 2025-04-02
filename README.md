@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **My Skills** 
 
-- 🌱 I’m currently learning **Cloud Security and Networking**
+- 🌱 I’m currently learning **Penetration testing and Networking**
 
-- 💬 Ask me about **Html,Css,Js,cybersecurity** 
+- 💬 Ask me about **Html,Css,Js,cybersecurity,penetration testing** 
 
 - 📫 How to reach me **tejpalsinghtomar09@gmail.com**
 
