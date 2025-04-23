@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋, I'm Tejpal Singh Tomar</h1> 
-<h3 align="center">A passionate Cyber Security Learner from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshujangra33233&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshujangra33233" /> </p>
 
@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **My Skills** 
 
-- 🌱 I’m currently learning **Penetration testing and Networking**
+- 🌱 I’m currently learning **Full Stack,Dart,Flutter **
 
-- 💬 Ask me about **Html,Css,Js,cybersecurity,penetration testing** 
+- 💬 Ask me about **Html,Css,Js,Full Stack,** 
 
 - 📫 How to reach me **tejpalsinghtomar09@gmail.com**
 
